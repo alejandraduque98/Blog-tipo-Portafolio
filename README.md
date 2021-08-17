@@ -1,0 +1,2 @@
+# Blog-tipo-Portafolio
+Este proyecto desarrolla un blog personal tipo portafolio. Consta de una navegación tipo responsiva, utiliza la implementación de la biblioteca multiplataforma Bootstrap, consta de un menú interactivo el cual está conectado a diferentes artículos que forman parte del portafolio, en él se maneja la aplicación de diferentes componentes de esta biblioteca tales como: Cards, collapse, formulario entre otras. Se caracteriza por estar conectado a redes Sociales como Instagram.
